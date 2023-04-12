@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steganography_and_Cryptography.iml" filepath="$PROJECT_DIR$/.idea/modules/Steganography_and_Cryptography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Steganography_and_Cryptography.Steganography_and_Cryptography-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Steganography_and_Cryptography.Steganography_and_Cryptography-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Steganography_and_Cryptography.Steganography_and_Cryptography-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Steganography_and_Cryptography.Steganography_and_Cryptography-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Steganography_and_Cryptography.Steganography_and_Cryptography-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Steganography_and_Cryptography.Steganography_and_Cryptography-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Steganography_and_Cryptography.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Steganography_and_Cryptography.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Steganography_and_Cryptography.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Steganography_and_Cryptography.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Steganography_and_Cryptography.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Steganography_and_Cryptography.util.test.iml" />
+    </modules>
+  </component>
+</project>
